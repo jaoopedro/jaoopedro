@@ -1,4 +1,4 @@
-### olá! EU SOU O JAOOPEDRO
+### olá! EU SOU O Joao Pedro
 
 
 - 🔭 Atualmente trabalho como estagiario de HelpDesk
