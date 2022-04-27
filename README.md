@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como estagiario de HelpDesk
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python e Desenvolvimento Mobie
+- 🌱 Estudando Python e Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/jaoopedro">
