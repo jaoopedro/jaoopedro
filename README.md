@@ -1,7 +1,7 @@
 ## Olá eu sou o João
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Pedro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Pedro;Eu+tenho+22+anos+old;Sou+do+Rio+de+Janeiro+Brasil;Sou+Gaaduado+em+Analise+de+Sistemas+e+Pós-Graduando+em+Ethical-hacking;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center"> 
